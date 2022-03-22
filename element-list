@@ -1,0 +1,6 @@
+module:wgu.scheduler
+Main
+Main.Controllers
+Main.Models
+Main.Utilities
+Main.Utilities.Helpers
